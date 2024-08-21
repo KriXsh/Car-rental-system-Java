@@ -1,0 +1,47 @@
+
+### `.gitignore`
+
+This file should specify files and directories that Git should ignore. For a Java project, you typically want to ignore compiled class files, IDE configuration files, and other generated files.
+
+```gitignore
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# IDE configuration files
+.idea/
+*.iml
+*.ipr
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+
+# NetBeans project files
+nbproject/private/
+
+# Maven build output
+target/
+
+# Gradle build output
+build/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Java build files
+*.class
