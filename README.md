@@ -3,7 +3,7 @@
 ## Overview
 
 The Car Rental System is a Java-based application that allows users to rent and return cars. The system manages car inventory, customer information, and rental transactions.
-      
+            
 ## Features     
            
 - **Rent a Car**: Allows users to rent an available car and calculates the total rental price.
